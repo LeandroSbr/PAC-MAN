@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by tvanni and lesbrocc.*
+*This project has been created as part of the 42 curriculum by tvanni and [Lesbrocc](https://profile.intra.42.fr/users/lesbrocc).*
 
 # Pacman — A Small Python Pac-Man Project
 
