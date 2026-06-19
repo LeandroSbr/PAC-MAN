@@ -1,0 +1,14 @@
+[project]
+name = "pacman"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "flake8>=7.3.0",
+    "mypy>=2.1.0",
+    "pydantic>=2.13.4",
+    "pydocstyle>=6.3.0",
+    "pygame>=2.6.1",
+    "pyinstaller>=6.21.0",
+]
