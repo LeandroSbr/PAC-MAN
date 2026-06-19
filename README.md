@@ -1,6 +1,6 @@
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThpcng4bW92dGJqMGYzOXY3dGV2NXFuZnhtNzE4eXMxbDUydXZkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A8NkSPltT13H2/giphy.gif)
 
-*This project has been created as part of the 42 curriculum by tvanni and [Lesbrocc](https://profile.intra.42.fr/users/lesbrocc).*
+*This project has been created as part of the 42 curriculum by [Tvanni](https://profile.intra.42.fr/users/tvanni) and [Lesbrocc](https://profile.intra.42.fr/users/lesbrocc).*
 
 # Pacman — A Small Python Pac-Man Project
 
